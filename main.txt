@@ -3,3 +3,6 @@ ready to merge
 merge
 text from branch1
 ending of branch1
+text from branch2
+ending of branch2
+
