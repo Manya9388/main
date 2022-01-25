@@ -1,3 +1,5 @@
 main text file
 ready to merge
 merge
+text from branch2
+ending of branch2
